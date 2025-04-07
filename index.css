@@ -1,0 +1,16 @@
+* {
+  font-family: "Montserrat", sans-serif;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  /* para que os inputs não passem do elemento pai  */
+  color: #333;
+}
+
+p {
+  color: #777;
+}
+
+body {
+  background-color: #f9fafc;
+}
